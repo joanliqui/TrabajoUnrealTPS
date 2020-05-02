@@ -810,3 +810,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.02-10.57.12:921][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
 [2020.05.02-10.57.13:186][270]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/ThirdPersonExampleMapA974925C47B94782E2D3ACAD2C91027A.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.05.02-10.57.13:218][270]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.336
+[2020.05.02-11.00.57:802][380]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.00.59:268][555]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.00.59:807][617]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.03.05:832][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-11.03.05:962][509]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/PlayerAnim_BP.PlayerAnim_BP
+[2020.05.02-11.03.05:974][509]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.02-11.03.06:346][509]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.02-11.07.13:417][241]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.05.02-11.07.13:417][241]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.049
+[2020.05.02-11.07.13:419][241]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/PlayerAnim_BP] ([1] browsable assets)...
+[2020.05.02-11.07.13:419][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/PlayerAnim_BP]
+[2020.05.02-11.07.13:438][241]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/PlayerAnim_BP_Auto4D292966544413913FE4D5690D942AC0A.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/PlayerAnim_BP_Auto4.uasset'
+[2020.05.02-11.07.13:439][241]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.05.02-11.08.29:787][596]LogSlate: Window 'PlayerAnim_BP' being destroyed
+[2020.05.02-11.08.29:791][596]LogSlate: Window 'PlayerAnim_BP' being destroyed
+[2020.05.02-11.08.29:813][596]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.08.29:879][596]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.08.29:998][596]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.08.30:037][596]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.08.30:043][596]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.08.30:169][596]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.08.30:627][649]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.08.30:993][692]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.08.32:404][861]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.08.34:139][861]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.02-11.09.37:795][800]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.02-11.09.37:799][800]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.02-11.09.38:853][921]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.09.40:186][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.05.02-11.09.40:193][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.09.40:214][ 67]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/PlayerAnim_BP141ED12B46BDAB396BFAE7AD2AE7F44C.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Blueprints/PlayerAnim_BP.uasset'
+[2020.05.02-11.10.30:767][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-11.10.30:908][244]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.02-11.13.44:111][385]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/ThirdPersonCharacter63466B934B43ECEE91816D972A32433B.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.02-11.16.40:576][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-11.19.09:730][823]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.02-11.19.09:734][823]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2020.05.02-11.19.09:761][823]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.19.10:922][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-11.19.16:764][485]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.02-11.20.05:124][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-11.20.06:425][735]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/PlayerAnim_BP.PlayerAnim_BP
+[2020.05.02-11.20.06:438][735]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.02-11.20.06:738][735]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.02-11.20.37:589][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-11.20.41:829][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-11.20.45:895][204]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAnimInstance::TryGetPawnOwner' [No se ha encontrado el elemento.]
+[2020.05.02-11.21.15:778][ 95]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/PlayerAnim_BPAC68F06D4994A41C41F98CA89B49C5F1.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Blueprints/PlayerAnim_BP.uasset'
+[2020.05.02-11.21.16:037][119]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.02-11.21.17:405][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.05.02-11.21.18:631][389]LogSlate: Window 'PlayerAnim_BP' being destroyed
+[2020.05.02-11.21.18:635][389]LogSlate: Window 'PlayerAnim_BP' being destroyed
+[2020.05.02-11.21.18:658][389]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.21.18:741][389]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.21.18:745][389]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.21.18:871][389]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
