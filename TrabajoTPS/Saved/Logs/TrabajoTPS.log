@@ -806,3 +806,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.02-10.55.55:708][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/WalkRun_BS" FILE="../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Blueprints/WalkRun_BS.uasset" SILENT=true
 [2020.05.02-10.55.55:726][ 13]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/WalkRun_BS923888F34188380A06FB19B381CFF2AC.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Blueprints/WalkRun_BS.uasset'
 [2020.05.02-10.56.03:564][676]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/ThirdPersonCharacterBD94932D4C8955CFC2422D92DE8331DA.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.02-10.57.12:870][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.05.02-10.57.12:921][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.05.02-10.57.13:186][270]LogSavePackage: Moving '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Saved/ThirdPersonExampleMapA974925C47B94782E2D3ACAD2C91027A.tmp' to '../../../../../A_CLASSES/Unreal/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.02-10.57.13:218][270]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.336
