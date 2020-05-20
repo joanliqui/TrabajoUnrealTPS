@@ -640,3 +640,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.20-19.11.41:442][278]AssetReimport: Reimported asset td1hcimn_8K_Albedo from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat3/td1hcimn_8K_Albedo.png.
 [2020.05.20-19.11.41:442][278]AssetReimport: Reimported asset td1hcimn_8K_AO from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat3/td1hcimn_8K_AO.png.
 [2020.05.20-19.11.41:442][278]AssetReimport: Reimported asset td1hcimn_8K_Displacement from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat3/td1hcimn_8K_Displacement.png.
+[2020.05.20-19.14.09:435][763]AssetReimport: New page: Outstanding source content changes 23:14:09
+[2020.05.20-19.14.09:506][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Roughness.png)
+[2020.05.20-19.14.16:892][764]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Normal.png)
+[2020.05.20-19.14.21:731][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Displacement.png)
+[2020.05.20-19.14.25:295][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.png)
+[2020.05.20-19.14.30:332][767]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Albedo.png)
+[2020.05.20-19.14.49:861][768]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_Roughness23346E97449B48756A06EF97BBFB82D6.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Roughness.uasset'
+[2020.05.20-19.15.01:046][768]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_Normal11CC00764A76E99EF3943A83718C2940.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Normal.uasset'
+[2020.05.20-19.15.02:825][768]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_DisplacementBDC86E8E4989BB4F026AAA83672FDE08.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Displacement.uasset'
+[2020.05.20-19.15.02:837][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SandMats/Textures_Mat4/teshfj1q_8K_AO" FILE="../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.uasset" SILENT=true
+[2020.05.20-19.15.04:739][768]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_AO8B4E92714D7AD4DB460FA9838C54D38C.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.uasset'
+[2020.05.20-19.15.14:492][768]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_Albedo8E2F4C89434D2BBB6A2502A95F777F07.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Albedo.uasset'
+[2020.05.20-19.15.17:503][ 98]AssetReimport: Importing new asset /Game/SandMats/Textures_Mat4/teshfj1q_8K_Roughness.
+[2020.05.20-19.15.17:503][ 98]AssetReimport: Importing new asset /Game/SandMats/Textures_Mat4/teshfj1q_8K_Normal.
+[2020.05.20-19.15.17:503][ 98]AssetReimport: Importing new asset /Game/SandMats/Textures_Mat4/teshfj1q_8K_Displacement.
+[2020.05.20-19.15.17:503][ 98]AssetReimport: Importing new asset /Game/SandMats/Textures_Mat4/teshfj1q_8K_AO.
+[2020.05.20-19.15.17:503][ 98]AssetReimport: Importing new asset /Game/SandMats/Textures_Mat4/teshfj1q_8K_Albedo.
+[2020.05.20-19.16.09:358][310]AssetReimport: New page: Outstanding source content changes 23:16:09
+[2020.05.20-19.16.09:358][310]LogEditorFactories: Performing atomic reimport of [D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Albedo.png]
+[2020.05.20-19.16.09:376][310]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Albedo.png)
+[2020.05.20-19.16.10:540][310]LogEditorFactories: -- imported successfully
+[2020.05.20-19.16.10:571][311]LogEditorFactories: Performing atomic reimport of [D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.png]
+[2020.05.20-19.16.10:574][311]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.png)
+[2020.05.20-19.16.10:889][311]LogEditorFactories: -- imported successfully
+[2020.05.20-19.16.10:906][312]LogEditorFactories: Performing atomic reimport of [D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Displacement.png]
+[2020.05.20-19.16.10:908][312]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Displacement.png)
+[2020.05.20-19.16.11:092][312]LogEditorFactories: -- imported successfully
+[2020.05.20-19.16.11:107][313]LogEditorFactories: Performing atomic reimport of [D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Normal.png]
+[2020.05.20-19.16.11:126][313]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Normal.png)
+[2020.05.20-19.16.11:384][313]LogEditorFactories: -- imported successfully
+[2020.05.20-19.16.11:412][314]LogEditorFactories: Performing atomic reimport of [D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Roughness.png]
+[2020.05.20-19.16.11:416][314]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Roughness.png)
+[2020.05.20-19.16.11:841][314]LogEditorFactories: -- imported successfully
+[2020.05.20-19.16.12:607][315]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_Albedo1C71E52B40BB2F3C615E4F9A4B0F9F21.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Albedo.uasset'
+[2020.05.20-19.16.12:631][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SandMats/Textures_Mat4/teshfj1q_8K_AO" FILE="../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.uasset" SILENT=true
+[2020.05.20-19.16.12:801][315]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_AOF22939DA4206D7B79EAD7DB8276E941E.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.uasset'
+[2020.05.20-19.16.12:936][315]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_Displacement8B5EC19B415197B41A44D5B2630537D2.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Displacement.uasset'
+[2020.05.20-19.16.13:881][315]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_NormalDFF5E2CD44341727187BBCAC3A2284FB.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Normal.uasset'
+[2020.05.20-19.16.14:142][315]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/teshfj1q_8K_RoughnessA5C457EE415C49B832117AAEFA0ED6ED.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Roughness.uasset'
+[2020.05.20-19.16.17:155][671]AssetReimport: Reimported asset teshfj1q_8K_Albedo from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Albedo.png.
+[2020.05.20-19.16.17:155][671]AssetReimport: Reimported asset teshfj1q_8K_AO from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_AO.png.
+[2020.05.20-19.16.17:155][671]AssetReimport: Reimported asset teshfj1q_8K_Displacement from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Displacement.png.
+[2020.05.20-19.16.17:155][671]AssetReimport: Reimported asset teshfj1q_8K_Normal from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Normal.png.
+[2020.05.20-19.16.17:155][671]AssetReimport: Reimported asset teshfj1q_8K_Roughness from D:/A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/SandMats/Textures_Mat4/teshfj1q_8K_Roughness.png.
