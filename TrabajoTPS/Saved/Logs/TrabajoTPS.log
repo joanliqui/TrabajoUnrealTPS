@@ -2583,3 +2583,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.20-17.58.40:169][428]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
 [2020.05.20-17.59.01:136][681]LogSlate: Window 'Project Settings' being destroyed
 [2020.05.20-17.59.01:140][681]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.20-17.59.24:323][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.05.20-17.59.31:269][225]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-17.59.34:060][551]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-17.59.34:933][551]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.05.20-18.02.44:771][443]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-18.02.45:845][571]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-18.03.32:848][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.20-18.03.40:385][999]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-18.03.41:695][155]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-18.03.54:255][414]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.20-18.03.54:259][414]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.20-18.03.55:358][539]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-18.03.56:577][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.20-18.03.56:584][680]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.05.20-18.03.56:626][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.20-18.03.56:929][680]LogSavePackage: Moving '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Saved/ThirdPersonExampleMapE3C7ED29489303D8616FDFBA4C9345C3.tmp' to '../../../../../A_CLASSES/TrabajoUnrealTPS/TrabajoTPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.20-18.03.56:971][680]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.381
